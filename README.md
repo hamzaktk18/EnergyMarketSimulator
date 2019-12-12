@@ -5,4 +5,4 @@ This code was part of CSC 486 - Sustainable Computing class and I created a plat
 Used Linear Regression from sklearn module to predict price. 
 If the class had conitnued longer, the next step would've been to run the broker in my browser and create a game on my localhost.
 
-Note: Its a work in progress and hasn't yet been completed. Thanks!
+Note: It's a work in progress and hasn't yet been completed. Thanks!
